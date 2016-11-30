@@ -6,12 +6,13 @@ summary: Silakan klik pada judul untuk detailnya
 categories: tugas
 ---
 
+## Makalah IF3130 Jaringan Komunikasi - Web Attack
 
-**Oleh: 
+**Oleh:**
 
-**Johan 13514026
+**Johan 13514026**
 
-**Kevin Supendi 13514094
+**Kevin Supendi 13514094**
 
 ---------------
 
@@ -68,11 +69,15 @@ Input dengan kutip satu yang diescape akan menghasilkan sesuatu. Ini berarti sea
 
 Kemudian kami menebak struktur SELECT query yang dipakai, caranya dengan UNION. Semua hasil SELECT query dapat di UNION dengan query berkolom sama.
 
-> Kami mencoba beberapa kali input untuk mencari jumlah kolom yang sesuai. Contoh : 
+Kami mencoba beberapa kali input untuk mencari jumlah kolom yang sesuai. Contoh : 
 > ' or 1=1 limit 1 union select 'a', 'a'#
+
 > ' or 1=1 limit 1 union select 'a', 'a', ’a’#
+
 > ' or 1=1 limit 1 union select 'a', 'a', ’a’, ’a’, 'a'#
+
 > Sampai akhirnya input mengeluarkan hasil
+
 > ' or 1=1 limit 1 union select 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'#
 
 ![Alt text](https://raw.githubusercontent.com/Johansentosa/Tugas-quiz-IF3130-Web-Attack/master/images/hasila.png "Input search mengeluarkan hasil")
