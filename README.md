@@ -9,9 +9,9 @@ categories: tugas
 
 **Oleh: 
 
-Johan 13514026
+**Johan 13514026
 
-Kevin Supendi 13514094**
+**Kevin Supendi 13514094
 
 ---------------
 
@@ -57,10 +57,10 @@ Pertama kami mencari situs web yang mudah diserang. Kami menemukan situs Dinas K
 
 Pertama kami mencoba memasukkan tanda kutip. Jika query statement tidak dihandle dengan baik, input tanda kutip dapat merusak sql query dan menghasilkan pesan error.
 ![Alt text](https://raw.githubusercontent.com/Johansentosa/Tugas-quiz-IF3130-Web-Attack/master/images/kutip2.png "Input search dengan kutip 2'"'")
-Kutip dua tidak menghasilkan apa-apa
+Kutip dua mengeluarkan hasil
 
 ![Alt text](https://raw.githubusercontent.com/Johansentosa/Tugas-quiz-IF3130-Web-Attack/master/images/kutip1.png "Input search dengan kutip 1")
-Kutip satu menghasilkan error.
+Kutip satu menghasilkan error
 
 Lalu kita coba untuk melihat hasil kutip 1 jika diescape.
 ![Alt text](https://raw.githubusercontent.com/Johansentosa/Tugas-quiz-IF3130-Web-Attack/master/images/escape.png "Input search dengan kutip 1 dan diescape")
