@@ -51,5 +51,5 @@ XSS adalah suatu metode memasukan code atau script HTML ke dalam suatu website y
 
 ### <a name="skenario"></a> **Skenario Pengujian**
 Pertama kami mencari situs web yang mudah diserang. Kami menemukan situs Dinas Koperasi dan UMKM. Di dalamnya terdapat search box yang kelihatannya mudah diserang dengan SQL Injection
-![Alt text](https://raw.githubusercontent.com/Johansentosa/Tugas-quiz-IF3130-Web-Attack/master/home.png "http://infokumkm.surakarta.go.id/home.php")
+![Alt text](https://raw.githubusercontent.com/Johansentosa/Tugas-quiz-IF3130-Web-Attack/images/home.png "http://infokumkm.surakarta.go.id/home.php")
 
